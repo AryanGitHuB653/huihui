@@ -1,0 +1,7 @@
+Click on the box as fast as possible to earn more points , you can see the score on 
+the top of the screen,
+the box will move to a random position after 1second
+and you will need to click on the respective position again to earn more points
+this game can be made more tough by decreasing the interval after which the
+box changes its position ;)  
+play the game by running the file name "main" :D
